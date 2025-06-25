@@ -48,7 +48,7 @@
    npm install
 - Установить браузеры Playwright:  
    npx playwright install --with-deps
-- Выбрать репозиторий с тестом File/Open File
+- Выбрать репозиторий с проектом File/Open File
 - Запустить тесты:  
    npx playwright test
 - Сгенерировать отчёт Allure:  
